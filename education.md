@@ -3,7 +3,8 @@
 Yonsei University (South Korea)
 02-2023
 
-Bachelor's in Applied Information Engineering & International Commerce
+B.Eng. in Applied Information Engineering & 
+B.A. in International Commerce
 
 **Relevant Coursework**
 
