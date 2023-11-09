@@ -1,5 +1,5 @@
 #### WORK EXPERIENCE:
-#####**SmallMachines Inc / Corporation R&D Center**<br>
+##### **SmallMachines Inc / Corporation R&D Center**<br>
 *Software Team, Researcher, and Software Engineer*<br>
 *01-2023 - Present*
 
@@ -20,9 +20,9 @@ A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Co
 - Conduct preliminary research for R&D projects funded by the Korean Government by reviewing research papers to analyze multiple approaches' viability (example: Relationship between vitamin D and Breast Cancer, Biomarkers in detecting myocardial infarction).
 
 
-####**INTERNSHIP EXPERIENCE:** <br>
+#### **INTERNSHIP EXPERIENCE:** <br>
 
-#####**Nexus Frontier Tech** *(Hanoi, Vietnam)* <br> 
+##### **Nexus Frontier Tech** *(Hanoi, Vietnam)* <br> 
 *Data Operator Intern*                                                                                                                   *01/2022 – 04/2022*	
 - Processed input data for IT projects on AI technology according to instructions. Completed dataset for ESG-related articles classification model.
 - Brainstormed and evaluated data usefulness to ensure progress and quality of data delivered. 
