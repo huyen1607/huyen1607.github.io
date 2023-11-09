@@ -30,7 +30,7 @@ B.A. in International Commerce
 
   **Topics include**: *Linear Algebra, Gradient-based Learning, Probability Distribution, Deep Network, Back Propagation, Models and       Objective, Regularization*
 
-- Natural Language Information Analysis:
+- Natural Language Information Analysis: <br>
   **Topics include**: *Machine Learning and Deep Learning techniques in Natural Language Processing*
   *Final Project: A Korean Chatbot using Transformer*
 
