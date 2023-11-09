@@ -1,5 +1,5 @@
 #### WORK EXPERIENCE:
-##### **SmallMachines Inc / Corporation R&D Center**<br>
+##### SmallMachines Inc / Corporation R&D Center<br>
 *Software Team, Researcher, and Software Engineer*<br>
 *01-2023 - Present*
 
