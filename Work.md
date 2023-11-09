@@ -34,4 +34,4 @@ A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Co
 - Conducted research on the Vietnamese EdTech industry, completed Edtech landscape evaluation including market sizing and competitor research to propose new potential investment targets.
 - Joined writing deal memorandum including details on the business structure, financial risk & health, and other important details to help drive the company's investing decision.
 - Created and managed a LinkedIn account, weekly updated on company’s activities and portfolio companies’ milestones to maintain a solid pipeline of the investment community. 
-<img src="https://github.com/huyen1607/huyen1607.github.io/blob/main/assets/StrategicYear.JPG" alt="SY" width="500"/>
+![<img src="./assets/StrategicYear.JPG" width="30" />](https://github.com/huyen1607/huyen1607.github.io/blob/main/assets/StrategicYear.JPG)
