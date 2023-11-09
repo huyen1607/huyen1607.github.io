@@ -6,8 +6,8 @@
 
 **RESEARCH IN PROGRESS:** <br>
 A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Complete Blood Count data, Vital Signs and Clinical Notes Extraction *(expected manuscript completion: January 2024)*
-
-
+![Respiratory Word Cloud](/assets/rrwordcloud.png)
+*A Word Cloud Visualization I obtained by extracting Clinical Notes from septic shock patients' respiratory rate*
 
 **TASKS DESCRIPTION:** <br>
 - Develop a model that classifies patients suspected of having sepsis infection. Input parameters include 30 routines from the Complete Blood Count (CBC) test (e.g: WBC, RBC, Hemoglobin,...). Data is preprocessed by cleaning, EDA, visualization, imputation, transformation, removing highly correlated variables. Apply supervised machine learning to preprocessed data, current Accuracy and AUC scores are 0.92, 0.95 (LightGBM), respectively. 
