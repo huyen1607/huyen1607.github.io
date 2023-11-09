@@ -24,7 +24,7 @@ B.A. in International Commerce
 
 - Advanced Data Analysis:
 
-  ***Topics include**: Machine Learning Theories and Algorithms, Neural Network*
+  ***Topics include**: *Machine Learning Theories and Algorithms, Neural Network*
 
 - Mathematics for Artificial Intelligence:
 
