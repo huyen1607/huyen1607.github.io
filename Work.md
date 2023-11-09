@@ -6,7 +6,7 @@
 
 **RESEARCH IN PROGRESS:** <br>
 A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Complete Blood Count data, Vital Signs and Clinical Notes Extraction *(expected manuscript completion: January 2024)*
-![Respiratory Word Cloud](/assets/rrwordcloud.png)
+![Respiratory Word Cloud](/assets/rrwordcloud.png) <br>
 *A Word Cloud Visualization I obtained by extracting Clinical Notes from septic shock patients' respiratory rate*
 
 **TASKS DESCRIPTION:** <br>
