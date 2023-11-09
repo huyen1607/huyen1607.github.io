@@ -19,7 +19,6 @@ B.A. in International Commerce
 - Information Software Engineering
 
 - Introduction to Data Analysis:
-
   ***Topics include**: Basic Data Analysis using Numpy, Pandas, Matplotlib, Seaborn*
   *Final Project: California Housing Price Prediction*
 
