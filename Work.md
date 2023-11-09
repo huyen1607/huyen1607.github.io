@@ -5,7 +5,9 @@
 [SmallMachines](https://www.smallmachines.co.kr/default/) is my first company after college graduation. Here, I have an opportunity to work with many passionate and talented engineers. We're all working towards building an universial personalized healthcare system. My tasks focus on AI in Healthcare.
 
 **RESEARCH IN PROGRESS:** <br>
-A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Complete Blood Count data, Vital Signs and Clinical Notes Extraction (expected manuscript completion: January 2024)
+A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Complete Blood Count data, Vital Signs and Clinical Notes Extraction *(expected manuscript completion: January 2024)*
+
+
 
 **TASKS DESCRIPTION:** <br>
 - Develop a model that classifies patients suspected of having sepsis infection. Input parameters include 30 routines from the Complete Blood Count (CBC) test (e.g: WBC, RBC, Hemoglobin,...). Data is preprocessed by cleaning, EDA, visualization, imputation, transformation, removing highly correlated variables. Apply supervised machine learning to preprocessed data, current Accuracy and AUC scores are 0.92, 0.95 (LightGBM), respectively. 
