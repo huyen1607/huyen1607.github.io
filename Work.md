@@ -27,7 +27,7 @@ A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Co
 - Processed input data for IT projects on AI technology according to instructions. Completed dataset for ESG-related articles classification model.
 - Brainstormed and evaluated data usefulness to ensure progress and quality of data delivered. 
 
-#####**Strategic Year Holdings Limited** *(Hong Kong)* <br>    
+**Strategic Year Holdings Limited** *(Hong Kong)* <br>    
 *Summer Intern, Market & Investment Analyst*                                                                                
 *06/2021 - 08/2021*
 - Conducted research on the Vietnamese EdTech industry, completed Edtech landscape evaluation including market sizing and competitor research to propose new potential investment targets.
