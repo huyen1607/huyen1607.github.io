@@ -18,7 +18,7 @@ A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Co
 - Develop web-based platforms using React JS, Flask, Firebase, and Google Cloud to deploy the trained Machine Learning models, making the models accessible. 
 - Join building a mobile app which gets real-time ECG data from a measured device and suggests music for users based on stress level calculated from Heart Rate Variability metrics.
 - Conduct preliminary research for R&D projects funded by the Korean Government by reviewing research papers to analyze multiple approaches' viability (example: Relationship between vitamin D and Breast Cancer, Biomarkers in detecting myocardial infarction).
-![<img src="./assets/SMM.JPG" width="30" />](https://github.com/huyen1607/huyen1607.github.io/blob/main/assets/SMM.JPG)
+![SMM](/assets/SMM.JPG) <br>
 
 
 #### INTERNSHIP EXPERIENCE <br>
@@ -33,5 +33,6 @@ A Multimodal System for the Early Prediction of Sepsis and Septic Shock using Co
 *06/2021 - 08/2021, I was honored working with [Conrad Tsang](https://www.linkedin.com/in/conrad-kwong-yue-tsang-684459202/) and [Aki Roslan](https://www.linkedin.com/in/aki-roslan/)
 - Conducted research on the Vietnamese EdTech industry, completed Edtech landscape evaluation including market sizing and competitor research to propose new potential investment targets.
 - Joined writing deal memorandum including details on the business structure, financial risk & health, and other important details to help drive the company's investing decision.
-- Created and managed a LinkedIn account, weekly updated on company’s activities and portfolio companies’ milestones to maintain a solid pipeline of the investment community. 
-![<img src="./assets/StrategicYear.JPG" width="30" />](https://github.com/huyen1607/huyen1607.github.io/blob/main/assets/StrategicYear.JPG)
+- Created and managed a LinkedIn account, weekly updated on company’s activities and portfolio companies’ milestones to maintain a solid pipeline of the investment community. <br>
+![SY](/assets/StrategicYear.JPG) <br>
+
